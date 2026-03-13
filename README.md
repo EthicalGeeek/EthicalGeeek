@@ -51,7 +51,7 @@ Now I focus on ethical hacking, automation, scripting, and building cool digital
 ## My Projects  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2dGZ6c2ZpZ2Z6cGZ4c2h6aGZ6bGZ6eGZ6cGZ6cGZ6/g04R7iQKqfE0/giphy.gif" width="150" alt="Project One Demo"/>
+  <img src="file:///C:/Users/ethic/Pictures/Screenshots/Screenshot%202026-03-13%20195551.png" width="150" alt="Project One Demo"/>
 </p>
 
 ---
