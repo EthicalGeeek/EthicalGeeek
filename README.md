@@ -90,9 +90,9 @@ Features:
 
 ## Socials
 
-[![TikTok](https://www.tiktok.com/@ethicalgeek)](https://tiktok.com/)  
-[![YouTube](https://www.youtube.com/@EthicalGeek_1)](https://youtube.com/)  
-[![Website](https://ethicalgeek.netlify.app/)](#)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ethicalgeek)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@EthicalGeek_1)  
+[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://ethicalgeek.netlify.app/)
 
 ---
 
