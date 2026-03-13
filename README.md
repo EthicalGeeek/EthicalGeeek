@@ -2,9 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<p align="center">
-    <img src="blob:https://batchtools.pro/801a5efc-006e-4cd1-a773-bbb93ea7703f" width="100%" height="180" alt="Banner"/>
-</p>
+![banner](blob:https://batchtools.pro/801a5efc-006e-4cd1-a773-bbb93ea7703f)
 
 
 
