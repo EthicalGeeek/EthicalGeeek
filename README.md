@@ -2,7 +2,10 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://copilot.microsoft.com/th/id/BCO.aa78ec12-91e0-42a0-8170-047e11cbc3c7.png)
+<p align="center">
+    <img src="https://copilot.microsoft.com/th/id/BCO.aa78ec12-91e0-42a0-8170-047e11cbc3c7.png" width="280" alt="Banner"/>
+</p>
+
 
 ---
 
