@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-    <img src="https://copilot.microsoft.com/th/id/BCO.aa78ec12-91e0-42a0-8170-047e11cbc3c7.png" width="100%" height="180" alt="Banner"/>
+    <img src="blob:https://batchtools.pro/801a5efc-006e-4cd1-a773-bbb93ea7703f" width="100%" height="180" alt="Banner"/>
 </p>
 
 
