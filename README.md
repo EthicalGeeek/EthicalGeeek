@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![banner](https://github.com/EthicalGeeek/waqwre2qweqe/blob/main/Copilot_20260313_194140%20(1).png)
+![banner](https://github.com/EthicalGeeek/waqwre2qweqe/blob/main/Naujas%20k%C5%ABrinys%20(1).png)
 
 
 
