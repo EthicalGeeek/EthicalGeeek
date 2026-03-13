@@ -56,13 +56,11 @@ Now I focus on ethical hacking, automation, scripting, and building cool digital
 
 ---
 
-### [Project One — AutoRecon Tool](https://github.com/EthicalGeeek)  
-_Automated recon tool for scanning, fingerprinting, and gathering OSINT._  
+### [Project One — Ransomware Tool](https://github.com/EthicalGeeek)  
+_Automated ransomware tool for learning more about ransomware's and how they work._  
 
 Features:  
-- Fast domain scanning  
-- Automated OSINT collection  
-- Clean CLI interface  
+- source code ;)  
 
 🔗 **More projects coming soon**
 
@@ -74,13 +72,13 @@ Features:
 
 ## Work in Progress  
 
-- **Darknet Analyzer** 🎯  
-  _Tool for analyzing darknet marketplace structures and scraping metadata._  
+- **Roblox Grabber** 🎯  
+  _Tool for grabbing/stealing roblox accounts._  
 
   Features in development:  
-  - Marketplace scraper  
-  - Vendor reputation analyzer  
-  - Automated report generator  
+  - More Ransomware's  
+  - Grabbers/Stealers  
+  - Osint Tools  
 
 ---
 
