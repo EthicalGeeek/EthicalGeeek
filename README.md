@@ -3,8 +3,9 @@
 <!-- ============================= -->
 
 <p align="center">
-    <img src="https://copilot.microsoft.com/th/id/BCO.aa78ec12-91e0-42a0-8170-047e11cbc3c7.png" width="1000" alt="Banner"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.aa78ec12-91e0-42a0-8170-047e11cbc3c7.png" width="100%" height="180" alt="Banner"/>
 </p>
+
 
 
 ---
