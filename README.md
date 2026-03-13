@@ -56,7 +56,7 @@ Now I focus on ethical hacking, automation, scripting, and building cool digital
 
 ---
 
-### [Project One — AutoRecon Tool](https://github.com/modelguyzz)  
+### [Project One — AutoRecon Tool](https://github.com/EthicalGeeek)  
 _Automated recon tool for scanning, fingerprinting, and gathering OSINT._  
 
 Features:  
