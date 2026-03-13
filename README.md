@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![banner](blob:https://batchtools.pro/801a5efc-006e-4cd1-a773-bbb93ea7703f)
+![banner](https://github.com/EthicalGeeek/waqwre2qweqe/blob/main/Copilot_20260313_194140%20(1).png)
 
 
 
