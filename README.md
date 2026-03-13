@@ -20,7 +20,7 @@
 <!-- ============================= -->
 
 ## About Me  
-I started learning programming between 2022–2024 after getting inspired by Punchmade Dev and the cyber‑security scene.  
+I started learning programming between 2022–2024 after getting inspired by Ebola Man and Mr.Robot Series.  
 Explored Telegram channels, darknet forums, and hacking communities.  
 Now I focus on ethical hacking, automation, scripting, and building cool digital projects.
 
