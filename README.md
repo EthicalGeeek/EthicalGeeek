@@ -51,7 +51,7 @@ Now I focus on ethical hacking, automation, scripting, and building cool digital
 ## My Projects  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EthicalGeeek/weweweweweweewewewe/refs/heads/main/Screenshot%202026-03-13%20195551.png?token=GHSAT0AAAAAADP2J6RWJ5FC2OTBP4KVZ3N22NUKFNQ" width="150" alt="Project One Demo"/>
+  <img src="https://raw.githubusercontent.com/EthicalGeeek/weweweweweweewewewe/refs/heads/main/Screenshot%202026-03-13%20195551.png?token=GHSAT0AAAAAADP2J6RWJ5FC2OTBP4KVZ3N22NUKFNQ" width="300" alt="Project One Demo"/>
 </p>
 
 ---
