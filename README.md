@@ -58,8 +58,8 @@ Now I focus on ethical hacking, automation, scripting, and building cool digital
 
 ---
 
-### [Project One — Ransomware Tool](https://github.com/EthicalGeeek)  
-_Automated ransomware tool for learning more about ransomware's and how they work._  
+### [Project One — Ransomware Tools](https://github.com/EthicalGeeek)  
+_Automated ransomware tools for learning more about ransomware's and how they work._  
 
 Features:  
 - source code ;)  
